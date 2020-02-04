@@ -1,0 +1,164 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Dorothy Gaynor",
+            "link": "https://www.dorothygaynor.com",
+            "image": "http://ivan.visionario.mx/images-book/dorothygaynor-thumbnail.jpg",
+            "kind": "eCommerce",
+            "summary": "Maquetación • Implementación",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 2,
+            "name": "OGGI",
+            "link": "http://www.oggi.mx/",
+            "image": "http://ivan.visionario.mx/images-book/oggi-thumbnail.jpg",
+            "kind": "eCommerce",
+            "summary": "UI / UX Design [Colaboración]  •  Maquetación Inicial",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 3,
+            "name": "Distroller",
+            "link": "https://www.distroller.com",
+            "image": "http://ivan.visionario.mx/images-book/distroller-thumbnail.jpg",
+            "kind": "eCommerce",
+            "summary": "UI / UX Design [Colaboración] • Maquetación • Implementación",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 4,
+            "name": "ANDREA",
+            "link": "http://mx.andrea.com/",
+            "image": "http://ivan.visionario.mx/images-book/andrea-thumbnail.jpg",
+            "kind": "eCommerce",
+            "summary": "UI / UX Design [Colaboración]  •  Maquetación Inicial",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 5,
+            "name": "Intro Restaurant",
+            "link": "http://introrestaurant.com",
+            "image": "http://ivan.visionario.mx/images-book/intro-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "UI / UX Design [Colaboración] • Maquetación",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 6,
+            "name": "Maz Autopartes",
+            "link": "https://www.maz-autopartes.mx",
+            "image": "http://ivan.visionario.mx/images-book/mazautopartes-thumbnail.jpg",
+            "kind": "eCommerce",
+            "summary": "UI / UX Design [Colaboración] • Maquetación • Implementación",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 7,
+            "name": "Co-Workers",
+            "link": "http://coworkers.com.mx",
+            "image": "http://ivan.visionario.mx/images-book/coworkers-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "Maquetación",
+            "agency": "Visionario",
+            "agencyLink": "http://ivan.visionario.mx/"
+        },
+        {
+            "id": 8,
+            "name": "OfficeMax",
+            "link": "http://www.officemax.com.mx/",
+            "image": "http://ivan.visionario.mx/images-book/officemax-thumbnail.jpg",
+            "kind": "eCommerce",
+            "summary": "Maquetación Inicial",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 9,
+            "name": "Vicom",
+            "link": "http://vicom.mx/",
+            "image": "http://ivan.visionario.mx/images-book/vicom-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "UI / UX Design [Colaboración]  •  Maquetación",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 10,
+            "name": "Jesús Lima",
+            "link": "http://www.jesuslima.mx/es/",
+            "image": "http://ivan.visionario.mx/images-book/jesuslima-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "UI / UX Design • Maquetación",
+            "agency": "Visionario",
+            "agencyLink": "http://ivan.visionario.mx/"
+        },
+        {
+            "id": 11,
+            "name": "La Italiana",
+            "link": "http://www.laitaliana.com.mx/",
+            "image": "http://ivan.visionario.mx/images-book/laitaliana-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "Maquetación Inicial",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 12,
+            "name": "CIPSA",
+            "link": "http://www.cipsa.com.mx/",
+            "image": "http://ivan.visionario.mx/images-book/cipsa-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "Maquetación",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 13,
+            "name": "Mezcal Santo Infierno",
+            "link": "http://mezcalsantoinfierno.com/",
+            "image": "http://ivan.visionario.mx/images-book/santoinfierno-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "Maquetación",
+            "agency": "Vicom",
+            "agencyLink": "http://vicom.mx/"
+        },
+        {
+            "id": 14,
+            "name": "Totto España",
+            "link": "http://totto.es/",
+            "image": "http://ivan.visionario.mx/images-book/totto-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "Maquetación Inicial",
+            "agency": "Vicom",
+            "agencyLink": "http://totto.es/"
+        },
+        {
+            "id": 15,
+            "name": "Casa del Té Verde",
+            "link": "http://www.casadelteverde.com/",
+            "image": "http://ivan.visionario.mx/images-book/casadelteverde-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "Identidad  •  UI / UX Design  •  Maquetación",
+            "agency": "Etix",
+            "agencyLink": "http://etix.com.mx/"
+        },
+        {
+            "id": 16,
+            "name": "Electrostructa",
+            "link": "http://www.instalaciones-electricas.mx/",
+            "image": "http://ivan.visionario.mx/images-book/electrostructa-thumbnail.jpg",
+            "kind": "Static",
+            "summary": "Identidad  •  UI / UX Design  •  Maquetación",
+            "agency": "Etix",
+            "agencyLink": "http://etix.com.mx/"
+        }
+    ]
+}

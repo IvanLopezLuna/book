@@ -5,7 +5,7 @@
             "name": "Dorothy Gaynor",
             "link": "https://www.dorothygaynor.com",
             "image": "http://ivan.visionario.mx/images-book/dorothygaynor-thumbnail.jpg",
-            "kind": "eCommerce",
+            "kind": "VTEX eCommerce",
             "summary": "Maquetación • Implementación",
             "agency": "Vicom",
             "agencyLink": "http://vicom.mx/"
@@ -15,7 +15,7 @@
             "name": "OGGI",
             "link": "http://www.oggi.mx/",
             "image": "http://ivan.visionario.mx/images-book/oggi-thumbnail.jpg",
-            "kind": "eCommerce",
+            "kind": "VTEX eCommerce",
             "summary": "UI / UX Design [Colaboración]  •  Maquetación Inicial",
             "agency": "Vicom",
             "agencyLink": "http://vicom.mx/"
@@ -25,7 +25,7 @@
             "name": "Distroller",
             "link": "https://www.distroller.com",
             "image": "http://ivan.visionario.mx/images-book/distroller-thumbnail.jpg",
-            "kind": "eCommerce",
+            "kind": "VTEX eCommerce",
             "summary": "UI / UX Design [Colaboración] • Maquetación • Implementación",
             "agency": "Vicom",
             "agencyLink": "http://vicom.mx/"
@@ -35,7 +35,7 @@
             "name": "ANDREA",
             "link": "http://mx.andrea.com/",
             "image": "http://ivan.visionario.mx/images-book/andrea-thumbnail.jpg",
-            "kind": "eCommerce",
+            "kind": "VTEX eCommerce",
             "summary": "UI / UX Design [Colaboración]  •  Maquetación Inicial",
             "agency": "Vicom",
             "agencyLink": "http://vicom.mx/"
@@ -55,7 +55,7 @@
             "name": "Maz Autopartes",
             "link": "https://www.maz-autopartes.mx",
             "image": "http://ivan.visionario.mx/images-book/mazautopartes-thumbnail.jpg",
-            "kind": "eCommerce",
+            "kind": "VTEX eCommerce",
             "summary": "UI / UX Design [Colaboración] • Maquetación • Implementación",
             "agency": "Vicom",
             "agencyLink": "http://vicom.mx/"
@@ -75,7 +75,7 @@
             "name": "OfficeMax",
             "link": "http://www.officemax.com.mx/",
             "image": "http://ivan.visionario.mx/images-book/officemax-thumbnail.jpg",
-            "kind": "eCommerce",
+            "kind": "VTEX eCommerce",
             "summary": "Maquetación Inicial",
             "agency": "Vicom",
             "agencyLink": "http://vicom.mx/"
@@ -105,7 +105,7 @@
             "name": "La Italiana",
             "link": "http://www.laitaliana.com.mx/",
             "image": "http://ivan.visionario.mx/images-book/laitaliana-thumbnail.jpg",
-            "kind": "Static",
+            "kind": "Product Catalog",
             "summary": "Maquetación Inicial",
             "agency": "Vicom",
             "agencyLink": "http://vicom.mx/"
@@ -115,7 +115,7 @@
             "name": "CIPSA",
             "link": "http://www.cipsa.com.mx/",
             "image": "http://ivan.visionario.mx/images-book/cipsa-thumbnail.jpg",
-            "kind": "Static",
+            "kind": "Product Catalog",
             "summary": "Maquetación",
             "agency": "Vicom",
             "agencyLink": "http://vicom.mx/"
@@ -135,7 +135,7 @@
             "name": "Totto España",
             "link": "http://totto.es/",
             "image": "http://ivan.visionario.mx/images-book/totto-thumbnail.jpg",
-            "kind": "Static",
+            "kind": "VTEX eCommerce",
             "summary": "Maquetación Inicial",
             "agency": "Vicom",
             "agencyLink": "http://totto.es/"
@@ -145,7 +145,7 @@
             "name": "Casa del Té Verde",
             "link": "http://www.casadelteverde.com/",
             "image": "http://ivan.visionario.mx/images-book/casadelteverde-thumbnail.jpg",
-            "kind": "Static",
+            "kind": "Custom eCommerce",
             "summary": "Identidad  •  UI / UX Design  •  Maquetación",
             "agency": "Etix",
             "agencyLink": "http://etix.com.mx/"

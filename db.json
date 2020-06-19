@@ -13,18 +13,6 @@
             "agencyLink": "https://vicom.mx"
         },
         {
-            "id": 1121,
-            "name": "QUARRY",
-            "link": "https://www.quarry.com.mx",
-            "kind": "VTEX eCommerce",
-            "summary": "Maquetación • Implementación",
-            "image": "https://ivan.visionario.mx/images-book/quarry-thumbnail.jpg",
-            "internalLink": "quarry",
-            "active": true,
-            "agencyName": "Vicom",
-            "agencyLink": "https://vicom.mx"
-        },
-        {
             "id": 1120,
             "name": "Rapsodia. MX",
             "link": "https://www.rapsodia.com.mx",
@@ -33,18 +21,6 @@
             "image": "https://ivan.visionario.mx/images-book/rapsodiamx-thumbnail.jpg",
             "internalLink": "rapsodia mx",
             "active": true,
-            "agencyName": "Vicom",
-            "agencyLink": "https://vicom.mx"
-        },
-        {
-            "id": 1119,
-            "name": "COACH. MX",
-            "link": "https://mx.coach.com",
-            "kind": "VTEX eCommerce",
-            "summary": "Maquetación • Implementación",
-            "image": "https://ivan.visionario.mx/images-book/coachmx-thumbnail.jpg",
-            "internalLink": "rapsodia mx",
-            "active": false,
             "agencyName": "Vicom",
             "agencyLink": "https://vicom.mx"
         },
@@ -68,6 +44,18 @@
             "summary": "Maquetación • Implementación",
             "image": "https://ivan.visionario.mx/images-book/calvinkleinmx-thumbnail.jpg",
             "internalLink": "calvin klein mx",
+            "active": true,
+            "agencyName": "Vicom",
+            "agencyLink": "https://vicom.mx"
+        },
+        {
+            "id": 1121,
+            "name": "QUARRY",
+            "link": "https://www.quarry.com.mx",
+            "kind": "VTEX eCommerce",
+            "summary": "Maquetación • Implementación",
+            "image": "https://ivan.visionario.mx/images-book/quarry-thumbnail.jpg",
+            "internalLink": "quarry",
             "active": true,
             "agencyName": "Vicom",
             "agencyLink": "https://vicom.mx"
@@ -117,18 +105,6 @@
             "image": "https://ivan.visionario.mx/images-book/andrea-thumbnail.jpg",
             "internalLink": "andrea",
             "active": true,
-            "agencyName": "Vicom",
-            "agencyLink": "https://vicom.mx"
-        },
-        {
-            "id": 1069,
-            "name": "Intro Restaurant",
-            "link": "https://introrestaurant.com",
-            "kind": "Contenido estático",
-            "summary": "UI / UX Design [Colaboración] • Maquetación",
-            "image": "https://ivan.visionario.mx/images-book/intro-thumbnail.jpg",
-            "internalLink": "intro restaurant",
-            "active": false,
             "agencyName": "Vicom",
             "agencyLink": "https://vicom.mx"
         },
@@ -227,18 +203,6 @@
             "active": true,
             "agencyName": "Vicom",
             "agencyLink": "https://vicom.mx"
-        },
-        {
-            "id": 1005,
-            "name": "Totto España",
-            "link": "https://totto.es",
-            "kind": "VTEX eCommerce",
-            "summary": "Maquetación Inicial",
-            "image": "https://ivan.visionario.mx/images-book/totto-thumbnail.jpg",
-            "internalLink": "totto espana",
-            "active": false,
-            "agencyName": "Vicom",
-            "agencyLink": "https://totto.es"
         },
         {
             "id": 102,
